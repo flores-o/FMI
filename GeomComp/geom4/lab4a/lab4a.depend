@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512336140 source:c:\users\mirceaf\desktop\teme\geom\geom4\lab4a\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cmath>
+

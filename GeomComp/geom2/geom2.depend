@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509792554 source:c:\users\mirceaf\desktop\teme\geom\geom2\main.cpp
+	<iostream>
+	<stack>
+	<stdlib.h>
+
