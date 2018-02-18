@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509221382 source:c:\users\laurentiu\desktop\oana\tap1.3\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+	<iostream>
+

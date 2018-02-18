@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1509287387 source:c:\users\laurentiu\desktop\oana\tap1.2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1509288122 source:c:\users\laurentiu\desktop\oana\tap1.2\b.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1509287388 source:d:\oana\tap1.2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

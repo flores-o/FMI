@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1513073345 source:c:\users\mirceaf\desktop\teme\tap\tema 3\4\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<unordered_map>
+	<utility>
+	<string>
+

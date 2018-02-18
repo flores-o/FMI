@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1511269372 source:c:\users\mirceaf\desktop\teme\geom\geom3\3_sem\main.cpp
+	<iostream>
+	<fstream>
+	<climits>
+	<cstdlib>
+
+1511269372 source:c:\users\mirceaf\desktop\teme\tap\tema 2\3_sem\main.cpp
+	<iostream>
+	<fstream>
+	<climits>
+	<cstdlib>
+

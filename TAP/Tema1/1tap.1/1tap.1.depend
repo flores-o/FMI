@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1509210010 source:c:\users\laurentiu\desktop\oana\1tap.1\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+
+1509221058 source:d:\oana\1tap.1\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+
